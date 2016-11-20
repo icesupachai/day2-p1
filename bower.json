@@ -1,0 +1,18 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/icesupachai/day2-p1",
+  "authors": [
+    "supachai <supachai10319@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
